@@ -2,6 +2,12 @@
 
 A comprehensive web-based AI platform designed to deliver intelligent solutions through an intuitive and professional user interface.
 
+## 🚀 View Live Website
+
+[![View Live Website](https://img.shields.io/badge/VIEW%20LIVE%20WEBSITE-Click%20Here-00AA00?style=for-the-badge&logo=github&logoColor=white)](https://axiomdeploy.github.io/milo-ai/)
+
+---
+
 ## Overview
 
 Milo AI represents a cutting-edge approach to artificial intelligence application development. This project demonstrates best practices in web development, combining modern HTML standards with sophisticated design patterns to create a seamless user experience for AI-powered applications.
@@ -15,6 +21,7 @@ Our mission is to bridge the gap between complex artificial intelligence systems
 - **Language**: HTML5
 - **Architecture**: Front-end focused web application
 - **Repository**: [axiomdeploy/milo-ai](https://github.com/axiomdeploy/milo-ai)
+- **Live Website**: [milo-ai.axiomdeploy.com](https://axiomdeploy.github.io/milo-ai/)
 - **Status**: Active Development
 
 ## Key Features
@@ -65,6 +72,9 @@ npx http-server
 
 Then visit `http://localhost:8000` in your browser.
 
+#### Option 3: GitHub Pages
+Visit the live website: [https://axiomdeploy.github.io/milo-ai/](https://axiomdeploy.github.io/milo-ai/)
+
 ## Project Structure
 
 ```
@@ -107,6 +117,7 @@ Please ensure your contributions align with our code standards and project guide
 
 For technical support, questions, or collaboration inquiries:
 
+- **Live Website**: [https://axiomdeploy.github.io/milo-ai/](https://axiomdeploy.github.io/milo-ai/)
 - **Repository Issues**: [GitHub Issues](https://github.com/axiomdeploy/milo-ai/issues)
 - **Discord Community**: Join our Discord server for real-time discussions and support
 - **Email**: Contact the development team for enterprise inquiries
